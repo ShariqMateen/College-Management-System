@@ -1,0 +1,3 @@
+﻿  College Management System.cpp
+D:\OneDrive_2022-06-19\College Management System using c++\College Management System\College Management System.cpp(1051,18): warning C4553: '==': result of expression not used; did you intend '='?
+  College Management System.vcxproj -> D:\OneDrive_2022-06-19\College Management System using c++\x64\Debug\College Management System.exe
